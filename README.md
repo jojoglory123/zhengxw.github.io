@@ -5,7 +5,7 @@
 ## About
 Hello! I am Zhengxin"Jason" Wang, a Ph.D. candidate in Statistics at Clemson University, expecting to graduate in May 2024. My research focuses on medical image analysis, employing a combination of statistical modeling and machine/deep learning methodologies. My academic journey has equipped me with strong programming and data analytical skills. I am currently aspiring to a career in data science or machine learning, where I can apply these skills to contribute to finding solutions to big, difficult, and impactful problems.
 
-In addition to my statistical expertise, I hold a Master's degree in Analytical Chemistry, which has provided me with foundational knowledge and practical experience in gas chromatography-mass spectrometry (GC-MS) and medical imaging techniques such as fMRI, PET, and EEG. This diverse skill set offers me a distinct edge, particularly in opportunities within the healthcare or pharmaceutical industries, while I remain open to exploring a wide range of roles where my comprehensive expertise can be applied effectively
+In addition to my statistical expertise, I hold a Master's degree in Analytical Chemistry, which has provided me with foundational knowledge and practical experience in gas chromatography-mass spectrometry (GC-MS) and medical imaging techniques such as fMRI, PET, and EEG. This diverse skill set offers me a distinct edge, particularly in opportunities within the healthcare or pharmaceutical industries, while I remain open to exploring a wide range of roles where my comprehensive expertise can be applied effectively.
 
 ## Education
 - Ph.D., Statistics | Clemson University, SC, USA (_August 2018 - May 2024_)								       		
