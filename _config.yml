@@ -2,6 +2,4 @@ title: Zhengxin (Jason) Wang
 logo: /assets/img/Jason.jpg
 #description: text below image
 #show_downloads: true
-theme: minimal-mistakes-jekyll
-social_links:
-  linkedin: zhengxinwang
+theme: jekyll-theme-minimal
