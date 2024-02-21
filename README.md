@@ -1,4 +1,4 @@
-# Ph.D. candidate in Statistics (#OPENTOWORK)
+# Ph.D. graduate in Statistics (#OPENTOWORK)
 
 #### Technical Skills: Statistical Modeling • Machine Learning • Deep Learning • A/B Testing • Python • R • SQL • AWS • Analytical Chemistry
 
