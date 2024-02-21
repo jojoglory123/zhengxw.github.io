@@ -3,7 +3,8 @@
 #### Technical Skills: Statistical Modeling • Machine Learning • Deep Learning • A/B Testing • Python • R • SQL • AWS • Analytical Chemistry
 
 ## About
-Hello! I am Zhengxin"Jason" Wang, a Ph.D. candidate in Statistics at Clemson University, expecting to graduate in May 2024. My academic journey has equipped me with strong programming and data analytical skills. I am currently aspiring to a career in data science or machine learning, where I can apply these skills to contribute to finding solutions to big, difficult, and impactful problems.
+Hello! I am Zhengxin"Jason" Wang, a forthcoming Ph.D. graduate in Statistics from Clemson University, having successfully defended my
+dissertation and set to officially graduate in May 2024. My academic journey has equipped me with strong programming and data analytical skills. I am currently aspiring to a career in data science or machine learning, where I can apply these skills to contribute to finding solutions to big, difficult, and impactful problems.
 
 In addition to my statistical expertise, I hold a Master's degree in Analytical Chemistry, which has provided me with foundational knowledge and practical experience in gas chromatography-mass spectrometry (GC-MS) and medical imaging techniques such as fMRI, PET, and EEG. This diverse skill set offers me a distinct edge, particularly in opportunities within the healthcare or pharmaceutical industries, while I remain open to exploring a wide range of roles where my comprehensive expertise can be applied effectively.
 
@@ -45,7 +46,7 @@ In addition to my statistical expertise, I hold a Master's degree in Analytical 
 [Publication](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/btpr.2013)
 
 - Formulated Gaussian and log-normal models to analyze the pore size distribution in C-CP fiber stationary phases for chromatography.
-- This foundational work underpinned subsequent research, contributing to over 30 peer-reviewed scholarly articles.
+- This foundational work underpinned subsequent research, contributing to over 50 peer-reviewed scholarly articles.
 
 ![LLM](/assets/img/pore.png)
 
