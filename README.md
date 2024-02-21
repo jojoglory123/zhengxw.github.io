@@ -68,7 +68,7 @@ In addition to my statistical expertise, I hold a Master's degree in Analytical 
 
 
 ## Publications
-1. **Zhengxin Wang**, Daniel B. Rowe, Xinyi Li, and D. Andrew Brown. A fully Bayesian approach for comprehensive mapping of magnitude and phase brain activation in complex-valued fMRI data. Submitted to _Biometrics_, arXiv:2401.06348.
+1. **Zhengxin Wang**, Daniel B. Rowe, Xinyi Li, and D. Andrew Brown. A fully Bayesian approach for comprehensive mapping of magnitude and phase brain activation in complex-valued fMRI data. Submitted to _Magnetic Resonance Imaging_, arXiv:2401.06348.
 2. **Zhengxin Wang**, Daniel B. Rowe, Xinyi Li, and D. Andrew Brown. Efficient fully Bayesian approach to brain activity mapping with complex-valued fMRI data. Submitted to _Journal of Applied Statistics_, arXiv:2310.18536.
 3. Zhenyu Gao, Yixing Li, and **Zhengxin Wang**. Restoring the real world records in men’s swimming without high-tech swimsuits. _Journal of Quantitative Analysis in Sports_, 16(4):291–300, 2020.
 4. **Zhengxin Wang** and R. Kenneth Marcus. Roles of interstitial fraction and load conditions on the dynamic binding capacity of proteins on capillary-channeled polymer fiber columns. _Biotechnology Progress_, 31(1):97-109, 2015.
