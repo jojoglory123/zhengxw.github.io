@@ -56,6 +56,7 @@ In addition to my statistical expertise, I hold a Master's degree in Analytical 
 
 - Independently lectured Introduction to Business Statistics to over 40 undergraduate students every semester. 
 - Edited the textbook STAT 3090 Lecture Guide, prepared in-class quizzes, and developed a comprehensive question database for exams.
+- Nominated for the Outstanding Graduate Teaching Award.
 
 **Analytical Chemist @ DLNK Landscape Company, Gainesville, FL, USA (_December 2020 - Present_)**
 - Conducted soil sample analyses using gas chromatography-mass spectrometry (GC-MS), specializing in the precise identification and quantification of chemical compounds. 
