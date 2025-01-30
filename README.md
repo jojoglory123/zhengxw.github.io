@@ -51,7 +51,7 @@ I am currently working at DuBu Research as a Biostatistician with responsibility
 
 
 ## Work Experience
-**Graduate Teaching Assistant @ DuBu Research, Remote, USA (_July 2024 - Present_)**
+**Biostatistician @ DuBu Research, Remote, USA (_July 2024 - Present_)**
 
 - Engaged in protocol development, including novel and complex trial designs, ensuring robust andscientifically sound study frameworks. 
 - Created comprehensive Statistical Analysis Plans (SAPs) and mock-up shells to guide the statistical analysis process.
