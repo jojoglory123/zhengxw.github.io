@@ -7,6 +7,24 @@ Hello! I am Zhengxin"Jason" Wang, a Ph.D. in Statistics from Clemson University 
 
 I am currently working at DuBu Research as a Biostatistician with responsibility for protocol development, Statistical Analysis Plans (SAPs) writing, SDTM/ADaM preparation, statistical analysis for clinical trials, tables, figures, and listings (TFLs) creation, and Clinical Study Reports (CSRs) writing.
 
+## Work Experience
+**Biostatistician @ DuBu Research, Remote, USA (_July 2024 - Present_)**
+
+- Engaged in protocol development, including novel and complex trial designs, ensuring robust andscientifically sound study frameworks. 
+- Created comprehensive Statistical Analysis Plans (SAPs) and mock-up shells to guide the statistical analysis process.
+- Developed programming specifications and defined files for SDTM and ADaM, generated SDTMand ADaM domains, and conducted CDISC compliance checks to ensure data integrity and standardization.
+- Conducted statistical analysis for clinical trials, including the generation of tables, figures, and listings for Clinical Study Reports (CSRs).
+  
+**Graduate Teaching Assistant @ Clemson University, Clemson, SC, USA (_August 2018 - May 2024_)**
+
+- Independently lectured Introduction to Business Statistics to over 40 undergraduate students every semester. 
+- Edited the textbook STAT 3090 Lecture Guide, prepared in-class quizzes, and developed a comprehensive question database for exams.
+- Nominated for the Outstanding Graduate Teaching Award.
+
+**Analytical Chemist @ DLNK Landscape Company, Gainesville, FL, USA (_October 2014 - January 2017_)**
+- Conducted soil sample analyses using gas chromatography-mass spectrometry (GC-MS), specializing in the precise identification and quantification of chemical compounds. 
+- Spearheaded comprehensive data processing activities, including data cleansing, thorough data analysis, advanced data visualization, and detailed interpretation.
+
 ## Education
 - Ph.D., Statistics | Clemson University, SC, USA (_August 2018 - May 2024_)								       		
 - M.S., Statistics	| Georgia Institute of Technology, GA, USA (_January 2017 - May 2018_)	 			        		
@@ -48,25 +66,6 @@ I am currently working at DuBu Research as a Biostatistician with responsibility
 - This foundational work underpinned subsequent research, contributing to over 50 peer-reviewed scholarly articles.
 
 ![LLM](/assets/img/pore.png)
-
-
-## Work Experience
-**Biostatistician @ DuBu Research, Remote, USA (_July 2024 - Present_)**
-
-- Engaged in protocol development, including novel and complex trial designs, ensuring robust andscientifically sound study frameworks. 
-- Created comprehensive Statistical Analysis Plans (SAPs) and mock-up shells to guide the statistical analysis process.
-- Developed programming specifications and defined files for SDTM and ADaM, generated SDTMand ADaM domains, and conducted CDISC compliance checks to ensure data integrity and standardization.
-- Conducted statistical analysis for clinical trials, including the generation of tables, figures, and listings for Clinical Study Reports (CSRs).
-  
-**Graduate Teaching Assistant @ Clemson University, Clemson, SC, USA (_August 2018 - May 2024_)**
-
-- Independently lectured Introduction to Business Statistics to over 40 undergraduate students every semester. 
-- Edited the textbook STAT 3090 Lecture Guide, prepared in-class quizzes, and developed a comprehensive question database for exams.
-- Nominated for the Outstanding Graduate Teaching Award.
-
-**Analytical Chemist @ DLNK Landscape Company, Gainesville, FL, USA (_October 2014 - January 2017_)**
-- Conducted soil sample analyses using gas chromatography-mass spectrometry (GC-MS), specializing in the precise identification and quantification of chemical compounds. 
-- Spearheaded comprehensive data processing activities, including data cleansing, thorough data analysis, advanced data visualization, and detailed interpretation.
 
 ## Talks & Presentations
 **Preparative and Process Chromatography, Boston, MA, USA (2012)**
