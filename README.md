@@ -5,7 +5,7 @@
 ## About
 Hello! I am Zhengxin"Jason" Wang, a Ph.D. in Statistics from Clemson University graduated in May 2024. My academic journey has equipped me with strong programming and data analytical skills.
 
-I am currently working at DuBu Research as a Biostatistician with responsibility for protocol development, Statistical Analysis Plans (SAPs) writing, SDTM/ADaM preparation, statistical analysis for clinical trials, tables, figures, and listings (TFLs) creation, and Clinical Study Reports (CSRs) writing.
+I am currently working at DuBu Research as a Biostatistician with responsibility for protocol development, Statistical Analysis Plans (SAPs) design, SDTM/ADaM preparation, statistical analysis for clinical trials, tables, figures, and listings (TFLs) creation, and Clinical Study Reports (CSRs) writing.
 
 ## Work Experience
 **Biostatistician @ DuBu Research, Remote, USA (_July 2024 - Present_)**
