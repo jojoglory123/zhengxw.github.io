@@ -15,8 +15,8 @@ I am currently working at DuBu Research as a Biostatistician with responsibility
 
 ## Research
 ### Bayesian Modeling for fMRI Data Analysis
-[Publication](https://authors.elsevier.com/a/1iq%7Ep,GdM5rVvP)
-[Publication](https://arxiv.org/abs/2401.06348)
+[Publication](https://www.tandfonline.com/doi/abs/10.1080/02664763.2024.2422392)
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0730725X24000857)
 
 - Developed Bayesian spatiotemporal models for task-based complex-valued fMRI brain signals. Implemented parallel computation and MCMC algorithms in R and C++ to identify active brain voxels.
 - Achieved an 87% reduction in computational time and a 9.5% increase in prediction accuracy compared to state-of-the-art.
