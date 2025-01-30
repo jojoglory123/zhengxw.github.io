@@ -3,9 +3,9 @@
 #### Technical Skills: Statistical Modeling • Machine Learning • Deep Learning • A/B Testing • Python • R • SQL • AWS • Analytical Chemistry
 
 ## About
-Hello! I am Zhengxin"Jason" Wang, a forthcoming Ph.D. graduate in Statistics from Clemson University, having successfully defended my dissertation and set to officially graduate in May 2024. My academic journey has equipped me with strong programming and data analytical skills. I am currently aspiring to a career in biostatistics or data science, where I can apply these skills to contribute to finding solutions to big, difficult, and impactful problems.
+Hello! I am Zhengxin"Jason" Wang, a Ph.D. in Statistics from Clemson University graduated in May 2024. My academic journey has equipped me with strong programming and data analytical skills.
 
-In addition to my statistical expertise, I hold a Master's degree in Analytical Chemistry, which has provided me with foundational knowledge and practical experience in gas chromatography-mass spectrometry (GC-MS) and medical imaging techniques such as fMRI, PET, and EEG. This diverse skill set offers me a distinct edge, particularly in opportunities within the healthcare or pharmaceutical industries, while I remain open to exploring a wide range of roles where my comprehensive expertise can be applied effectively.
+I am currently working at DuBu Research as a Biostatistician with responsibility for protocol development, Statistical Analysis Plans (SAPs) writing, SDTM/ADaM preparation, statistical analysis for clinical trials, tables, figures, and listings (TFLs) creation, and Clinical Study Reports (CSRs) writing.
 
 ## Education
 - Ph.D., Statistics | Clemson University, SC, USA (_August 2018 - May 2024_)								       		
