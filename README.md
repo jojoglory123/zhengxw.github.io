@@ -51,13 +51,20 @@ In addition to my statistical expertise, I hold a Master's degree in Analytical 
 
 
 ## Work Experience
+**Graduate Teaching Assistant @ DuBu Research, Remote, USA (_July 2024 - Present_)**
+
+- Engaged in protocol development, including novel and complex trial designs, ensuring robust andscientifically sound study frameworks. 
+- Created comprehensive Statistical Analysis Plans (SAPs) and mock-up shells to guide the statistical analysis process.
+- Developed programming specifications and defined files for SDTM and ADaM, generated SDTMand ADaM domains, and conducted CDISC compliance checks to ensure data integrity and standardization.
+- Conducted statistical analysis for clinical trials, including the generation of tables, figures, and listings for Clinical Study Reports (CSRs).
+  
 **Graduate Teaching Assistant @ Clemson University, Clemson, SC, USA (_August 2018 - May 2024_)**
 
 - Independently lectured Introduction to Business Statistics to over 40 undergraduate students every semester. 
 - Edited the textbook STAT 3090 Lecture Guide, prepared in-class quizzes, and developed a comprehensive question database for exams.
 - Nominated for the Outstanding Graduate Teaching Award.
 
-**Analytical Chemist @ DLNK Landscape Company, Gainesville, FL, USA (_December 2020 - Present_)**
+**Analytical Chemist @ DLNK Landscape Company, Gainesville, FL, USA (_October 2014 - January 2017_)**
 - Conducted soil sample analyses using gas chromatography-mass spectrometry (GC-MS), specializing in the precise identification and quantification of chemical compounds. 
 - Spearheaded comprehensive data processing activities, including data cleansing, thorough data analysis, advanced data visualization, and detailed interpretation.
 
